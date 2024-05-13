@@ -1,3 +1,6 @@
+# Healthcare-Dashboard
+Performed exploratory data analysis using Power BI to improve the Patient General Detail System.
+
 Data Analysis
 Analysing patient data to extract insights.
 Interpreting data and patterns.
@@ -16,5 +19,3 @@ Enhancing visual appeal.
 Tools Used
 [ MS Excel and Power BI ]
 
-# Healthcare-Dashboard
-Performed exploratory data analysis using Power BI to improve the Patient General Detail System.
